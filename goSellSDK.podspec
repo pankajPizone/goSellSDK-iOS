@@ -1,20 +1,20 @@
-CardIODynamicDependencyVersion					= '>= 5.4.1'	unless defined? CardIODynamicDependencyVersion
-EditableTextInsetsTextFieldDependencyVersion	= '>= 1.0.6'	unless defined? EditableTextInsetsTextFieldDependencyVersion
-TapAdditionsKitDependencyVersion				= '>= 1.3.3'	unless defined? TapAdditionsKitDependencyVersion
-TapApplicationDependencyVersion					= '>= 1.0.7'	unless defined? TapApplicationDependencyVersion
-TapBundleLocalizationDependencyVersion			= '>= 1.0.3'	unless defined? TapBundleLocalizationDependencyVersion
-TapCardValidatorDependencyVersion				= '>= 1.2.6'	unless defined? TapCardValidatorDependencyVersion
-TapEditableViewDependencyVersion				= '>= 1.0.5'	unless defined? TapEditableViewDependencyVersion
-TapErrorReportingDependencyVersion				= '>= 1.0.3'	unless defined?	TapErrorReportingDependencyVersion
-TapFontsKitDependencyVersion					= '>= 1.0.6'	unless defined? TapFontsKitDependencyVersion
-TapGLKitDependencyVersion						= '>= 1.1.1'	unless defined? TapGLKitDependencyVersion
-TapKeychainDependencyVersion					= '>= 1.0.5'	unless defined? TapKeychainDependencyVersion
-TapNetworkManagerDependencyVersion				= '>= 1.2.6'	unless defined? TapNetworkManagerDependencyVersion
-TapNibViewDependencyVersion						= '>= 1.0.4'	unless defined? TapNibViewDependencyVersion
-TapResponderChainInputViewDependencyVersion		= '>= 1.1.4'	unless defined? TapResponderChainInputViewDependencyVersion
-TapSearchViewDependencyVersion					= '>= 1.0.4'	unless defined? TapSearchViewDependencyVersion
-TapSwiftFixesDependencyVersion					= '>= 1.0.9'	unless defined? TapSwiftFixesDependencyVersion
-TapVisualEffectViewDependencyVersion			= '>= 1.1.2'	unless defined? TapVisualEffectViewDependencyVersion
+# CardIODynamicDependencyVersion					= '>= 5.4.1'	unless defined? CardIODynamicDependencyVersion
+# EditableTextInsetsTextFieldDependencyVersion	= '>= 1.0.6'	unless defined? EditableTextInsetsTextFieldDependencyVersion
+# TapAdditionsKitDependencyVersion				= '>= 1.3.3'	unless defined? TapAdditionsKitDependencyVersion
+# TapApplicationDependencyVersion					= '>= 1.0.7'	unless defined? TapApplicationDependencyVersion
+# TapBundleLocalizationDependencyVersion			= '>= 1.0.3'	unless defined? TapBundleLocalizationDependencyVersion
+# TapCardValidatorDependencyVersion				= '>= 1.2.6'	unless defined? TapCardValidatorDependencyVersion
+# TapEditableViewDependencyVersion				= '>= 1.0.5'	unless defined? TapEditableViewDependencyVersion
+# TapErrorReportingDependencyVersion				= '>= 1.0.3'	unless defined?	TapErrorReportingDependencyVersion
+# TapFontsKitDependencyVersion					= '>= 1.0.6'	unless defined? TapFontsKitDependencyVersion
+# TapGLKitDependencyVersion						= '>= 1.1.1'	unless defined? TapGLKitDependencyVersion
+# TapKeychainDependencyVersion					= '>= 1.0.5'	unless defined? TapKeychainDependencyVersion
+# TapNetworkManagerDependencyVersion				= '>= 1.2.6'	unless defined? TapNetworkManagerDependencyVersion
+# TapNibViewDependencyVersion						= '>= 1.0.4'	unless defined? TapNibViewDependencyVersion
+# TapResponderChainInputViewDependencyVersion		= '>= 1.1.4'	unless defined? TapResponderChainInputViewDependencyVersion
+# TapSearchViewDependencyVersion					= '>= 1.0.4'	unless defined? TapSearchViewDependencyVersion
+# TapSwiftFixesDependencyVersion					= '>= 1.0.9'	unless defined? TapSwiftFixesDependencyVersion
+# TapVisualEffectViewDependencyVersion			= '>= 1.1.2'	unless defined? TapVisualEffectViewDependencyVersion
 
 Pod::Spec.new do |goSellSDK|
     
